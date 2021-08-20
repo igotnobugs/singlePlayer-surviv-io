@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efff1dbeb071be8499073f6900664a5b, type: 3}
+  m_Name: Basic Loot Table
+  m_EditorClassIdentifier: 
+  lootableWeapons:
+  - weapon: {fileID: 700067031243083410, guid: 6f974a888600ca541b516b4f0bfa42f6, type: 3}
+    chance: 10
+    tablePosition: 0
+  - weapon: {fileID: 729411423490358943, guid: cd351aac0ea363d419ecc360c29e6387, type: 3}
+    chance: 5
+    tablePosition: 10
+  - weapon: {fileID: -8091547249838230253, guid: 31602004543aa9544aae751370b35146, type: 3}
+    chance: 3
+    tablePosition: 15

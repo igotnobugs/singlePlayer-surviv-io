@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 691c0297b7bee914b955ccbc9900e8c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inventory: {instanceID: 0}
+  - defaultWeapon: {fileID: 4943095668778182071, guid: c365dd790df1c0a47a35aa89569f2347, type: 3}
+  - equippedWeapon: {instanceID: 0}
+  - gunPosition: {instanceID: 0}
+  - leftHand: {instanceID: 0}
+  - rightHand: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

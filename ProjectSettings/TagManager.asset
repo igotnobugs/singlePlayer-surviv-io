@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Equippable
+  - Bullet
+  - Moving Joystick
+  - Shooting Joystick
+  - Loot
+  - LootAmmo
+  - LootWeapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bullets
+  - Unit
+  - Wall
+  - Loot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2142972975
+    locked: 0
+  - name: Floor
+    uniqueID: 341605945
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Unit
+    uniqueID: 1204566057
+    locked: 0
+  - name: Roof
+    uniqueID: 1608091059
+    locked: 0
